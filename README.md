@@ -1,4 +1,4 @@
-# job-matching-engine
+# jobs-matching-engine
 
 This is a job matching engine that presents workers with appropriate Jobs. Refer to the api Blueprint in the project to understand the request/ response format and supported http codes.
 
